@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyGPT.iml" filepath="$PROJECT_DIR$/MyGPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-ops/dev-ops.iml" filepath="$PROJECT_DIR$/dev-ops/dev-ops.iml" />
     </modules>
   </component>
 </project>

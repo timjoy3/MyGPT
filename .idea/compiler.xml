@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dev-ops" />
+        <module name="gpt-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dev-ops" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
